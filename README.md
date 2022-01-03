@@ -1,4 +1,4 @@
-# qr-generator
+# qr-generator (2014)
 QR code generator for payment application - 'scan to pay'
 
 The Code updates every few seconds to ensure uniqueness and security. 
